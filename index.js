@@ -22,7 +22,7 @@ const sessionConfig = {
     tablename: 'sessions',
     // sidfieldname: 'lebowski',
     createtable: true,
-    // clearInterval: 1000 * 60 * 60
+    clearInterval: 1000 * 60 * 60
   })
 }
 
